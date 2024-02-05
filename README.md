@@ -3,7 +3,7 @@ Programe to check whether character is Upper Case, Lower Case or Digit
 
 
 
-**Description : **
+**Description :** 
 
 You have to read a characer and check it is  upper case, lower case, digit or none.of.above.
 
